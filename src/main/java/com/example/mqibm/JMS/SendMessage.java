@@ -1,7 +1,5 @@
-package com.example.mqibm;
-
-/**
- * @ClassName SendMessage
+package com.example.mqibm.JMS; /**
+ * @ClassName com.example.mqibm.JMS.SendMessage
  * @Author Jumy
  * @Description //TODO
  * @Date 2019/9/18 14:44
